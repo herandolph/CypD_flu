@@ -1,5 +1,5 @@
 # Effect of cyclophilin D knockout on the transcriptional response to influenza A
-code necessary to reproduce the main analyses published in:
+code necessary to reproduce the computational analyses published in:
 
 Cyclophilin D promotes disease tolerance to influenza A virus infection by licensing NK cell development and function
 
