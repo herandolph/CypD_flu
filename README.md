@@ -3,7 +3,7 @@ code necessary to reproduce the main analyses published in:
 
 Cyclophilin D promotes disease tolerance to influenza A virus infection by licensing NK cell development and function
 
-J Downey, HE Randolph, E Pernet, KA Tran, SA Khader, LB Barreiro, and M Divangahi
+J Downey, HE Randolph, E Pernet, KA Tran, SA Khader, IL King, LB Barreiro, and M Divangahi
 
 # General dependencies
 R (tested in version 3.6.3)
