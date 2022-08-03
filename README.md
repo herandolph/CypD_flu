@@ -1,7 +1,7 @@
 # Effect of cyclophilin D knockout on the transcriptional response to influenza A
 code necessary to reproduce the computational analyses published in:
 
-Cyclophilin D promotes disease tolerance to influenza A virus infection by licensing NK cell development and function
+Mitochondrial cyclophilin D promotes disease tolerance by licensing NK cell development and IL-22 production against influenza virus
 
 J Downey, HE Randolph, E Pernet, KA Tran, SA Khader, IL King, LB Barreiro, and M Divangahi
 
